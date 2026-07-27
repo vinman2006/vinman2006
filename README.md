@@ -72,12 +72,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinman2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinman2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinman2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinman2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinman2006&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00F7FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vinman2006&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00F7FF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -85,7 +86,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinman2006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vinman2006&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -93,7 +94,7 @@
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinman2006&theme=tokyo-night&hide_border=true&area=true&point=00F7FF&line=FF6B35&color=ffffff" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinman2006&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
