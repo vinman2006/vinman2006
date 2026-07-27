@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=🚀+Welcome+to+VinMan's+GitHub!;💻+B.Tech+CSE+%40+KDKCE+Nagpur+(2024–2028);🔐+Cybersecurity+%7C+Ethical+Hacking+%7C+OSINT;🏆+10%2B+Hackathons+%7C+CoDevians+Core+Team;🌐+Building+Real-World+Tech+Solutions;⚡+System+Integration+%7C+Rapid+Prototyping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Welcome+to+VinMan's+GitHub!;B.Tech+CSE+%40+KDKCE+Nagpur+(2024-2028);Cybersecurity+%7C+Ethical+Hacking+%7C+OSINT;10%2B+Hackathons+%7C+CoDevians+Core+Team;Building+Real-World+Tech+Solutions;System+Integration+%7C+Rapid+Prototyping" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
@@ -40,12 +40,12 @@
 
 <br>
 
-<!-- Snake Animation (dark/light adaptive) -->
+<!-- Snake Animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vinman2006/vinman2006/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/vinman2006/vinman2006/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/vinman2006/vinman2006/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinman2006/vinman2006/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinman2006/vinman2006/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vinman2006/vinman2006/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
