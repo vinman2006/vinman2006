@@ -77,8 +77,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinman2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=21600&v=2" alt="Top Languages"/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinman2006&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00F7FF" alt="GitHub Streak" />
-</p>
+ <img src="https://streak-stats.demolab.com/?user=vinman2006&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00F7FF&cache_seconds=21600&v=2" alt="GitHub Streak" />
 
 ---
 
