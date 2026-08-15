@@ -74,8 +74,7 @@
 <p align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinman2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600&v=2" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinman2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinman2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=21600&v=2" alt="Top Languages"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vinman2006&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00F7FF" alt="GitHub Streak" />
