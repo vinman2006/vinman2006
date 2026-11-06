@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <!-- Header Wave Animation -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vineet%20Mandhalkar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=VinMan%20%7C%20CS%20Student%20%7C%20Hackathon%20Builder%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18" alt="Header Banner"/>
@@ -10,7 +12,10 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Welcome+to+VinMan's+GitHub!;B.Tech+CSE+%40+KDKCE+Nagpur+(2024-2028);Cybersecurity+%7C+Ethical+Hacking+%7C+OSINT;10%2B+Hackathons+%7C+CoDevians+Core+Team;Building+Real-World+Tech+Solutions;System+Integration+%7C+Rapid+Prototyping" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Welcome+to+VinMan's+GitHub!;B.Tech+CSE+%40+KDKCE+Nagpur+(2024-2028);Cybersecurity+%7C+Ethical+Hacking+%7C+OSINT;10%2B+Hackathons+%7C+CoDevians+Core+Team;Building+Real-World+Tech+Solutions;System+Integration+%7C+Rapid+Prototyping" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Welcome+to+VinMan's+GitHub!;B.Tech+CSE+%40+KDKCE+Nagpur+(2024-2028);Cybersecurity+%7C+Ethical+Hacking+%7C+OSINT;10%2B+Hackathons+%7C+CoDevians+Core+Team;Building+Real-World+Tech+Solutions;System+Integration+%7C+Rapid+Prototyping" alt="Typing SVG" />
+  </picture>
 </p>
 
 <!-- Social Badges -->
@@ -38,6 +43,21 @@
   <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-success?style=flat-square" alt="Status"/>
 </p>
 
+<!-- Quick Navigation -->
+<p align="center">
+  <b>
+    <a href="#about">About</a> ·
+    <a href="#tech-stack">Tech Stack</a> ·
+    <a href="#projects">Projects</a> ·
+    <a href="#security">Security</a> ·
+    <a href="#education">Education</a> ·
+    <a href="#community">Community</a> ·
+    <a href="#stats">GitHub Stats</a> ·
+    <a href="#roadmap">Roadmap</a> ·
+    <a href="#connect">Connect</a>
+  </b>
+</p>
+
 <br>
 
 <!-- Snake Animation -->
@@ -51,53 +71,34 @@
 
 ---
 
-## 👨‍💻 About Me
+<a id="about"></a>
+
+<h2 align="center">👨‍💻 About Me</h2>
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 **BTech CSE Student** @ KDK College of Engineering, Nagpur *(2024 – 2028)*
-- 🏛️ Affiliated: **Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)**
-- 🚀 **10+ Hackathons** | Core Member of **CoDevians**
-- 🤝 **10+ Tech Event Volunteering Experiences**
-- 🔐 Deep passion for **Cybersecurity, Ethical Hacking & OSINT**
-- 💡 Love **rapid prototyping & turning ideas into working products**
-- 📊 Exploring **FinTech, Civic Tech & AI-powered Web Development**
-- 🌐 Personal Vault: **[vinmannotes.shop](https://vinmannotes.shop)**
+> Nagpur-based CS student who turns ideas into working products, one hackathon sprint at a time.
+
+- 🎓 **B.Tech CSE student** @ KDK College of Engineering, Nagpur *(2024 – 2028)*
+- 🏛️ Affiliated with **Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)**
+- 🚀 **10+ hackathons** · Core member of **CoDevians**
+- 🤝 **10+ tech event volunteering experiences**
+- 🔐 Deep passion for **cybersecurity, ethical hacking & OSINT**
+- 💡 Love **rapid prototyping** and turning ideas into working products
+- 📊 Exploring **FinTech, Civic Tech & AI-powered web development**
+- 🌐 Personal vault: **[vinmannotes.shop](https://vinmannotes.shop)**
 - ☠️ *"Whatever happens, Death Note should remain constant."*
 
 <br clear="right"/>
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinman2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600&v=2" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinman2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=21600&v=2" alt="Top Languages"/>
-
-<p align="center">
- <img src="https://streak-stats.demolab.com/?user=vinman2006&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00F7FF&cache_seconds=21600&v=2" alt="GitHub Streak" />
+> [!TIP]
+> **Open to collaborate.** Hackathon teams, civic-tech builds and security research are all welcome. Reach me on [LinkedIn](https://www.linkedin.com/in/vinmandev) or [email](mailto:vineet.mandhalkar@gmail.com).
 
 ---
 
-## 🏆 GitHub Trophies
+<a id="tech-stack"></a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinman2006&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinman2006&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
   <b>Languages</b><br/><br/>
@@ -105,12 +106,12 @@
 </p>
 
 <p align="center">
-  <b>Frameworks & Libraries</b><br/><br/>
+  <b>Frameworks &amp; Libraries</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks" />
 </p>
 
 <p align="center">
-  <b>Tools & Platforms</b><br/><br/>
+  <b>Tools &amp; Platforms</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,azure,docker,figma,notion" alt="Tools" />
 </p>
 
@@ -121,44 +122,46 @@
 
 **🌐 Web Development**
 ```text
-HTML / CSS        ████████████████░░░  85%
-JavaScript        ██████████████░░░░░  75%
-React             ████████████░░░░░░░  65%
-Node.js           ████████████░░░░░░░  65%
-Next.js           ██████████░░░░░░░░░  55%
+HTML / CSS          █████████████████░░░   85%
+JavaScript          ███████████████░░░░░   75%
+React               █████████████░░░░░░░   65%
+Node.js             █████████████░░░░░░░   65%
+Next.js             ███████████░░░░░░░░░   55%
 ```
 
 **💻 Programming Languages**
 ```text
-Python            ████████████████░░░  85%
-C / C++           ██████████████░░░░░  75%
-Java              ████████████░░░░░░░  60%
-JavaScript        ██████████████░░░░░  75%
+Python              █████████████████░░░   85%
+C / C++             ███████████████░░░░░   75%
+Java                ████████████░░░░░░░░   60%
+JavaScript          ███████████████░░░░░   75%
 ```
 
 **🔐 Cybersecurity & OSINT**
 ```text
-Ethical Hacking   ████████████░░░░░░░  65%
-OSINT Techniques  ██████████████░░░░░  75%
-Cyber Forensics   ████████████░░░░░░░  65%
-Network Security  ██████████░░░░░░░░░  55%
-CTF Strategy      █████████░░░░░░░░░░  50%
+Ethical Hacking     █████████████░░░░░░░   65%
+OSINT Techniques    ███████████████░░░░░   75%
+Cyber Forensics     █████████████░░░░░░░   65%
+Network Security    ███████████░░░░░░░░░   55%
+CTF Strategy        ██████████░░░░░░░░░░   50%
 ```
 
 **🧩 Soft Skills & Leadership**
 ```text
-Technical Pitch   ████████████████░░░  85%
-Team Management   ████████████████░░░  85%
-Presentations     ███████████████░░░░  80%
-System Integration████████████████░░░  85%
-Event Management  ██████████████████░  90%
+Technical Pitch     █████████████████░░░   85%
+Team Management     █████████████████░░░   85%
+Presentations       ████████████████░░░░   80%
+System Integration  █████████████████░░░   85%
+Event Management    ██████████████████░░   90%
 ```
 
 </details>
 
 ---
 
-## 🏅 Hackathon & Build Vault
+<a id="projects"></a>
+
+<h2 align="center">🏅 Hackathon & Build Vault</h2>
 
 > 🔥 10+ hackathons competed | 24-hour sprints | Multi-domain innovation | Core CoDevians team
 
@@ -213,13 +216,15 @@ Event Management  ██████████████████░  90%
 
 ---
 
-## 🔐 Cybersecurity & Security Research
+<a id="security"></a>
+
+<h2 align="center">🔐 Cybersecurity & Security Research</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-Certified-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyber_Forensics-Certified-8B0000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OSINT-Practitioner-1C1C1C?style=for-the-badge&logo=tor-project&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CTF-Participant-4A90D9?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-Certified-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacking — Certified"/>
+  <img src="https://img.shields.io/badge/Cyber_Forensics-Certified-8B0000?style=for-the-badge&logoColor=white" alt="Cyber Forensics — Certified"/>
+  <img src="https://img.shields.io/badge/OSINT-Practitioner-1C1C1C?style=for-the-badge&logo=tor-project&logoColor=white" alt="OSINT — Practitioner"/>
+  <img src="https://img.shields.io/badge/CTF-Participant-4A90D9?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF — Participant"/>
 </p>
 
 | 🛡️ Area | 📌 Details |
@@ -233,9 +238,11 @@ Event Management  ██████████████████░  90%
 
 ---
 
-## 🎓 Education & Certifications
+<a id="education"></a>
 
-### 📚 Academic Background
+<h2 align="center">🎓 Education & Certifications</h2>
+
+<h3 align="center">📚 Academic Background</h3>
 
 ```
 🎓 B.Tech Computer Science Engineering
@@ -244,7 +251,11 @@ Event Management  ██████████████████░  90%
    📅 2024 — 2028
 ```
 
-### 📜 Certifications
+<h3 align="center">📜 Certifications</h3>
+
+<details>
+<summary><b>🏅 View all 6 certificates (click to expand)</b></summary>
+<br/>
 
 | 🏅 Certificate | 🏢 Issuing Body | 📅 Year |
 |:---|:---|:---|
@@ -255,13 +266,17 @@ Event Management  ██████████████████░  90%
 | 🏆 Central India Hackathon 2.0 Participation | Unstop | 2024 |
 | 🎨 Pixel Palettes Event Participation | Organizing Institute | 2024 |
 
+</details>
+
 ---
 
-## 🌍 Community & Volunteering
+<a id="community"></a>
+
+<h2 align="center">🌍 Community & Volunteering</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Volunteering-10%2B_Experiences-4CAF50?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Communities-5%2B_Active-FF9800?style=for-the-badge&logo=meetup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Volunteering-10%2B_Experiences-4CAF50?style=for-the-badge&logo=handshake&logoColor=white" alt="Volunteering — 10+ Experiences"/>
+  <img src="https://img.shields.io/badge/Communities-5%2B_Active-FF9800?style=for-the-badge&logo=meetup&logoColor=white" alt="Communities — 5+ Active"/>
 </p>
 
 | 👥 Community | 🎯 Role & Contribution |
@@ -276,7 +291,37 @@ Event Management  ██████████████████░  90%
 
 ---
 
-## 📌 Current Focus & Roadmap
+<a id="stats"></a>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vinman2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600&v=2" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinman2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=21600&v=2" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vinman2006&theme=tokyonight&hide_border=true&stroke=00F7FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00F7FF&cache_seconds=21600&v=2" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinman2006&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
+
+<h3 align="center">📈 Contribution Activity Graph</h3>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinman2006&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+<a id="roadmap"></a>
+
+<h2 align="center">📌 Current Focus & Roadmap</h2>
 
 ```mermaid
 graph LR
@@ -291,9 +336,19 @@ graph LR
     E --> J["🛡️ Security Researcher"]
     G --> J
     I --> J
+
+    classDef root fill:#1a1b27,stroke:#00F7FF,stroke-width:2px,color:#ffffff
+    classDef track fill:#1a1b27,stroke:#bf91f3,stroke-width:2px,color:#ffffff
+    classDef goal fill:#1a1b27,stroke:#38bdae,stroke-width:2px,color:#ffffff
+    classDef target fill:#1a1b27,stroke:#FF6B35,stroke-width:3px,color:#ffffff
+    class A root
+    class B,C,D track
+    class E,F,G,H,I goal
+    class J target
+    linkStyle default stroke:#70a5fd,stroke-width:2px
 ```
 
-### 🎯 2024–2025 Goals
+<h3 align="center">🎯 Goals & Milestones</h3>
 
 - [x] 🏆 Participate in 10+ Hackathons
 - [x] 🔐 Complete Ethical Hacking & Cyber Forensics certifications
@@ -306,15 +361,19 @@ graph LR
 
 ---
 
-## 💬 Random Dev Quote
+<h2 align="center">💬 Random Dev Quote &amp; Joke</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Dev Joke"/>
+</p>
+
 ---
 
-## 🎧 Coding Vibes
+<h2 align="center">🎧 Coding Vibes</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coding_Music-Lo--Fi_%26_Focus_Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
@@ -324,7 +383,9 @@ graph LR
 
 ---
 
-## 🌐 Connect With Me
+<a id="connect"></a>
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinmandev" target="_blank">
@@ -348,7 +409,7 @@ graph LR
 
 ---
 
-## 👀 Profile Analytics
+<h2 align="center">👀 Profile Analytics</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinman2006&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
@@ -358,7 +419,11 @@ graph LR
 
 ---
 
-## ⚡ Fun Facts About VinMan
+<h2 align="center">⚡ Fun Facts About VinMan</h2>
+
+<details>
+<summary><b>🎲 Reveal the fun facts (click to expand)</b></summary>
+<br/>
 
 <table align="center">
 <tr>
@@ -387,6 +452,8 @@ graph LR
 </tr>
 </table>
 
+</details>
+
 <br/>
 
 <!-- Footer Wave -->
@@ -395,5 +462,6 @@ graph LR
 </p>
 
 <p align="center">
-  <i>⭐ Star some repos if you find them useful! It motivates me to build more! ⭐</i>
+  <i>⭐ Star some repos if you find them useful! It motivates me to build more! ⭐</i><br/>
+  <a href="#top">⬆ Back to top</a>
 </p>
